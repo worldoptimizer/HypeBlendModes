@@ -4,11 +4,10 @@ This is a full extension offering blendmodes. You can assign them by using the a
 
 *MODENAME* are color, color-burn, color-dodge, darken, difference, exclusion, hard-light, hue, lighten, luminosity, multiply, overlay, saturation, screen, soft-light.
 
-**Demo:**
+**Demo:**\
 [HypeBlendModes.html](https://playground.maxziebell.de/Hype/BlendModes/HypeBlendModes.html)
 
-**Version history**
-
+**Version history**\
 `1.0  Initial release under MIT-license`\
 `1.2 Converted into full IDE plugin`\
 `1.3 Fixed IDE support, added dataset variation`
