@@ -1,3 +1,5 @@
+# Hype BlendModes
+
 ![43%402x|690x513](https://forums.tumult.com/uploads/db2156/optimized/3X/7/0/70bec569dd389d074f3b2efbbc3b907cbe5836ad_2_1380x1026.png) 
 
 This is a full extension offering blendmodes. You can assign them by using the attribute `data-blendmode` (assigning MODENAME) or by class `blendmode-MODENAME`.
