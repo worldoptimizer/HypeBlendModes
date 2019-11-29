@@ -8,6 +8,7 @@ This is a full extension offering blendmodes. You can assign them by using the a
 [HypeBlendModes.html](https://playground.maxziebell.de/Hype/BlendModes/HypeBlendModes.html)
 
 **Version history**
+
 `1.0  Initial release under MIT-license`\
 `1.2 Converted into full IDE plugin`\
 `1.3 Fixed IDE support, added dataset variation`
