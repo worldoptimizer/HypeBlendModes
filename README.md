@@ -16,3 +16,15 @@ This is a full extension offering blendmodes. You can assign them by using the a
 
 
 <small>PS: there is an [older version](https://forums.tumult.com/t/hypeblendmodeenabler-1-1-with-thumbnail-preview-in-ide/12637) of this project using an symbol but this take is much more versatile, in my opinion.</small>
+
+Content Delivery Network (CDN)
+--
+Latest minified version can be linked into your project using the following in the head section of your project:
+```html
+<script src="https://cdn.jsdelivr.net/gh/worldoptimizer/HypeBlendModes/HypeBlendModes.min.js"></script>
+```
+
+Optionally you can also link a SRI version or specific releases. Read more about that on the JsDelivr (CDN) page for this extension at https://www.jsdelivr.com/package/gh/worldoptimizer/HypeBlendModes
+
+Learn how to use the latest extension version and how to combine extentions into one file at
+https://github.com/worldoptimizer/HypeCookBook/wiki/Including-external-files-and-Hype-extensions
